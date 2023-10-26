@@ -5,6 +5,10 @@ ini semua yang dibuthkan untuk unamy project
 1. https://www.youtube.com/watch?v=mD6uSGSjgr4&list=PLc6SEcJkQ6DwiGCnVdCbWLqo6ceICD_4b
 2. https://www.youtube.com/watch?v=O5TBXDSXPR8&list=PLRKMmwY3-5MxKyirOjKmeK7Ai951mSSxB
 
+# API
+1. https://www.youtube.com/watch?v=h4qXuajnzQ0
+2. https://www.youtube.com/watch?v=RJrffp8PkKA
+
 # React 
 1. https://www.youtube.com/watch?v=3Jgju76gS2g&list=PLc6SEcJkQ6DxQmmUzUilxRUNrJyeHDmX7
 2. https://www.youtube.com/watch?v=kcnwI_5nKyA
@@ -33,4 +37,32 @@ ini semua yang dibuthkan untuk unamy project
 
 # Learn From Master
 
-1. Dea Afrizal
+Dea Afrizal 
+https://www.youtube.com/@deaafrizal
+
+Persinta
+https://www.youtube.com/@parsinta
+
+WPU
+https://www.youtube.com/@sandhikagalihWPU
+
+VIP CODE STUDIO
+https://www.youtube.com/@vipcodestudio
+
+PROGRAMER ZAMAN NOW 
+https://www.youtube.com/@ProgrammerZamanNow
+
+NIGHT CODER 
+https://www.youtube.com/@nightcoder20
+
+VOID
+https://www.youtube.com/@voidfnc
+
+REZA OLLA
+https://www.youtube.com/@rezaola
+
+DICODE ACADEMY
+https://www.youtube.com/@AjatDarojat45
+
+CREATIVE ACADEMY INDONESIA
+https://www.youtube.com/watch?v=oEAsqAiKWK8&t=8s
